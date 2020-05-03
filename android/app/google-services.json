@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "401288458822",
+    "firebase_url": "https://flashchat-e7695.firebaseio.com",
+    "project_id": "flashchat-e7695",
+    "storage_bucket": "flashchat-e7695.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401288458822:android:6103c7abf1c9a5180d9047",
+        "android_client_info": {
+          "package_name": "co.dishantdua.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "401288458822-8e6e7sd3q0agl0so16otgdqelu04pt50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVtoO5OOUTdMQjsNgDEi_XncYtGzspvEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "401288458822-8e6e7sd3q0agl0so16otgdqelu04pt50.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
